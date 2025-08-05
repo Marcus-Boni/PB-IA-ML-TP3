@@ -112,3 +112,18 @@ Para executar o notebook e replicar os resultados, siga os passos abaixo:
         jupyter notebook
         ```
       * Abra o arquivo `sonar_classification_project.ipynb` e execute as células.
+
+### 👥 Contribuições
+
+Contribuições são bem-vindas! Por favor:
+
+1. Fork o projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+
+
+---
+
+⭐ **Se este projeto foi útil para você, considere dar uma estrela!** ⭐
