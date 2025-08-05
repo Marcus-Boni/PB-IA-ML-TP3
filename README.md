@@ -87,8 +87,8 @@ Para executar o notebook e replicar os resultados, siga os passos abaixo:
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    cd nome-do-repositorio
+    git clone https://github.com/Marcus-Boni/PB-IA-ML-TP3.git
+    cd PB-IA-ML-TP3
     ```
 
 2.  **Crie um ambiente virtual (recomendado):**
